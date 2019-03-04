@@ -13,11 +13,15 @@
   "license": "ISC",
   "dependencies": {
     "@types/express-ws": "^3.0.0",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-ws": "^4.0.0",
     "rx-node": "^1.0.2",
     "rxjs": "^6.3.3",
     "ts-node-dev": "^1.0.0-pre.32",
     "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.4"
   }
 }
